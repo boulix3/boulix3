@@ -6,7 +6,7 @@ golang, blockchain related stuff
 ### Currently hacking on
 [Sub.Net](https://github.com/subdotnet)
 
-🙋‍♀️ Sub.Net Sdk will provide tools to create a subnet easily.
+🙋‍♀️ Sub.Net Sdk will provide tools to create a subnet easily in .Net.
 
 It contains everything needed to create a custom avalanche subnet VM. It implements the grpc protos required, and it is compatible with metamask (custom handlers).
 
